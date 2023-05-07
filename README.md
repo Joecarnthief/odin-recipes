@@ -1,8 +1,7 @@
 README
 
 Purpose:
-A basic website that will include ingredient lists, instructions,
- projected costs and images of the food.
+A basic website that will include ingredient lists, instructions and images of the food.
 
 
 Rights:
